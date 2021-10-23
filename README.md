@@ -37,4 +37,4 @@ int main()
 
 
 ## Result:
-*Write your result here*
+Thus the program to for finding the area of the rectangle is calculated and verified.
